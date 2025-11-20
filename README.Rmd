@@ -14,6 +14,7 @@ knitr::opts_chunk$set(
 # sparseNumericHW6
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/Neena05/sparseNumericHW6/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Neena05/sparseNumericHW6/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 sparseNumericHW6 provides an S4 class sparse_numeric for representing sparse numeric vectors in a memory-efficient way.

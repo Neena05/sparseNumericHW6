@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/Neena05/sparseNumericHW6/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Neena05/sparseNumericHW6/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 sparseNumericHW6 provides an S4 class sparse_numeric for representing
